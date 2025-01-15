@@ -9,7 +9,7 @@ env:
   LOCATION: polandcentral
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 0ad5ac4a-b031-42a2-9fe5-5feb754f1822
-  WEBAPP-NAME: eshoponweb-webapp-prpu
+  WEBAPP-NAME: rg-eshoponweb-prpu
 
 
 jobs:
